@@ -1,7 +1,6 @@
 ### Hi I'm SHohruhmirzo <img src="https://em-content.zobj.net/source/joypixels-animations/366/waving-hand_1f44b.gif">
 
-<!--
-**ShohruhmirzoDev/ShohruhmirzoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
