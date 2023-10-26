@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Shohruhmirzo <img src="![image](https://github.com/ShohruhmirzoDev/ShohruhmirzoDev/assets/146816742/743b3d95-9623-4699-856f-bb5345e16dfe)
+">
 
 <!--
 **ShohruhmirzoDev/ShohruhmirzoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
